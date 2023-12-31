@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: purple;
+}
+.header_text{
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
